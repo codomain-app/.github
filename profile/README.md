@@ -1,10 +1,11 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=%7Bcodomain%7D" alt="{codomain}">
+<h1>{codomain}</h1>
 
 <p>
-  <em>Developing intelligent systems that transform information into understanding, reasoning, and action.</em>
+  <em>
+    Developing intelligent systems that transform information into understanding, reasoning, and action.
+  </em>
 </p>
 
 <br>
