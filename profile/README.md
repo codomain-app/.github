@@ -8,16 +8,7 @@
 
 <br>
 
-```bash
-codomain@root:~$ ./launch --status
-
-[ system ]  booting codomain core...
-[ status ]  reasoning engine .......... ONLINE
-[ status ]  action layer ............. ONLINE
-[ status ]  public release ........... PENDING
-
-> coming soon_
-```
+<img src="https://raw.githubusercontent.com/codomain-app/.github/main/assets/codomain-terminal.svg" width="600" alt="terminal: coming soon">
 
 <br>
 
